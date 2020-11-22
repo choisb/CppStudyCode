@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FriendFunction.cpp">
+    <ClCompile Include="AggregationSample.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
